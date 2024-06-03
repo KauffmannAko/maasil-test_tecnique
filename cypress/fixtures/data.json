@@ -1,0 +1,23 @@
+{
+  "titre": {
+    "text": "Vous aimez la musique ? Nous sommes là pour vous accompagner !",
+    "couleur": "color:#c65547"
+  },
+  "Sous titre": {
+    "text": "Vous voulez devenir un artiste ? Téléchargez notre document gratuit pour démarrer votre apprentissage."
+  },
+
+  "btn" : {
+    "text" : "RECEVEZ VOTRE DOCUMENT GRATUIT",
+    "text2" : "Nous sommes là pour vous accompagner dans votre apprentissage !"
+  },
+
+  "email" : {
+    "text": "Recevez votre pdf sur l'apprentissage de la musique par mail",
+    "prenom": "Nana",
+    "nom":"Kauffmann",
+    "email":"nanakauffmann@gmail.com"
+  }
+
+ 
+}

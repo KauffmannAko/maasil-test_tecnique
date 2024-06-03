@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Cypress directories
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+cypress/reports/
+
+# Cypress environment configuration
+cypress.env.json
