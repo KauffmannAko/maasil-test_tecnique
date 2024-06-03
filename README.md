@@ -14,7 +14,7 @@ Vous pouvez accéder au plan de test via le lien suivant : [Plan de test](https:
 ## Démarrer Votre Test Cypress
 
 - Installez node.js.
-- Naviguez jusqu'au répertoire de votre projet et exécutez `npm init -y`.
+- Naviguez jusqu'au répertoire de votre projet et exécutez ```bash npm init -y ```.
 - Exécutez la commande suivante pour installer Cypress : `npm install cypress --save-dev`.
 - Lancez vos tests en exécutant : `npx cypress run --headless`.
 
