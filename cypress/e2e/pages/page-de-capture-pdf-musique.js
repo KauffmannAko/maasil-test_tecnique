@@ -9,6 +9,7 @@ class FormulaireEmail extends Entete {
     checkbox = "#rgpd500732";
     btn_valider = "#btn_submit_500733";
     alert_email = "h3";
+    alert_sms = "p";
 
     /**
      * Méthode pour remplir un champ de formulaire avec une valeur donnée
